@@ -1,0 +1,5 @@
+dn: uid=Piloto1,ou=Pilotos,dc=Endor,dc=ally
+classObject: inetOrgPerson
+classObject: posixAccount
+classObject: person
+uid: Piloto1

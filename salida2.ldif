@@ -1,0 +1,6 @@
+dn: uid=Inigo,ou=si2,dc=endor,dc=ally
+classObject: inetOrgPerson
+classObject: posixAccount
+classObject: person
+uid: Inigo
+sn: brinas
