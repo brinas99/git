@@ -1,6 +1,13 @@
-dn: uid=Inigo,ou=si2,dc=endor,dc=ally
+dn: uid=inigp,ou=si2,dc=endor,dc=ally
 classObject: inetOrgPerson
 classObject: posixAccount
 classObject: person
-uid: Inigo
+uid: inigp
+cn: inigp
 sn: brinas
+givenName: inigp
+userPassword: inigp
+loginShell: /bin/bash
+uidNumber: 1
+gidNumber: 1
+homeDirectory: /home/inigp
